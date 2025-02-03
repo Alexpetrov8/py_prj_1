@@ -1,3 +1,5 @@
-def print_module3():
-    print("hello from module 3")
+from datetime import datetime
 
+def print_module3():
+    now = datetime.now()   
+    print(f"{now}:  hello from module 3")
