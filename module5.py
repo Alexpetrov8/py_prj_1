@@ -4,4 +4,5 @@ def print_module5():
     now = datetime.now()   
     print(f"{now}:  hello from module 5")
     print(f"{now}:  hello from module 5 second message")
+    print(f"{now}:  hello from module 5 third message")
 
